@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ef4eb994e16f9184abf3665cd31495be
+timeCreated: 1520226834
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabRock: {fileID: 1358331202844962, guid: c6a7caf3c381a08448f8385ceef87373,
+      type: 2}
+  - spriteWhiteRock: {fileID: 21300000, guid: fc6f62e4e30208a4bb6fc61cbd723591, type: 3}
+  - spriteGreenRock: {fileID: 21300000, guid: 9834223860f9c994eb469f3811e0acad, type: 3}
+  - spriteMagentaRock: {fileID: 21300000, guid: 2c951b8337222d24b882c89fe8f63c22,
+      type: 3}
+  - killGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
